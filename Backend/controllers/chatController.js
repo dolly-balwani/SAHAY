@@ -1,4 +1,4 @@
-import Chat from "../Models/ChatModel.js";
+import Chat from "../models/ChatModel.js";
 import axios from "axios";
 import mongoose from "mongoose";
 
